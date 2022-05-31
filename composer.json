@@ -1,0 +1,20 @@
+{
+    "name": "palash/whattime",
+    "description": "Simple Time api",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Palash\\Whattime\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Palash Bauri",
+            "email": "palashbauri1@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "3."
+    }
+}
